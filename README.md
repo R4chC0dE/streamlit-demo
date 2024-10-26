@@ -1,1 +1,1 @@
-# streamlit-demo
+# Face Detection using OpenCV and Streamlit
